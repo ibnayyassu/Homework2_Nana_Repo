@@ -49,3 +49,4 @@ output "Transit-A-Prod" {
     description = "TransitGateway-A-Prod"
   value = aws_ec2_transit_gateway.Virginia-TGW01.id
 }
+
